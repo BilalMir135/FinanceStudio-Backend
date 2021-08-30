@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://bilalmir:mydb12345@cluster0.3mere.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
